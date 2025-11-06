@@ -1,17 +1,12 @@
-# README.md
-
 <div align="center">
   <h2>
-    HI! I'M DAVY
-    <img src="" alt="" width="40"/>
+    !Hello there, I'm  DAVY!
   </h2>
 </div>
 
 <p align="center">
-  <b>💻 I'm a beginner developer!</b>
+  <b>💻 I'm a beginner developer and a Software Engineering student!</b>
 </p>
-
----
 
 <h3 align="center">💡 My Skills</h3>
 
@@ -19,14 +14,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" title="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" title="CSS3"/></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" title="Python"/></a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React logo" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="50" height="50"/>
-
 </p>
-
-
-
 
 ---
 
@@ -37,8 +25,6 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=figma" title="Figma"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" title="Git"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></a>
-  <a href="#"> <img src="https://skillicons.dev/icons?i=markdown" title="Markdown logo"/></a>
-  <a href="#"> <img src="https://skillicons.dev/icons?i=notion" title="Notion logo"/></a>
 </p>
 
 ---
@@ -46,10 +32,14 @@
 <h3 align="center">📫 Connect with me</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/davyqueiroz2025?igsh=MThmc3g3dmZhNHBzdg==">
+  <a href="https://www.instagram.com/beatriz._.zzr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
  
+  <a href="https://wa.me/5522998732818">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
 ---
 
@@ -65,4 +55,4 @@
 
 ---
 
-<p align="center"> Aprendendo , Crescendo e sempre programando </p>
+<p align="center"> “Still learning. Still growing. Still coding.” </p>
