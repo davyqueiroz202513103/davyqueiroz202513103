@@ -32,7 +32,7 @@
 <h3 align="center">📫 Connect with me</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/beatriz._.zzr">
+  <a href="https://www.instagram.com/davyqueiroz2025?igsh=MThmc3g3dmZhNHBzdg==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
  
